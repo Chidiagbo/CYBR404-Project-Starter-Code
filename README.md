@@ -3,10 +3,10 @@
 ## **Grading Criteria**
   The final project will be graded based on the following criteria:
   
-## 1. Working Product
+### 1. Working Product
   The project must be fully functional, meet all specified requirements, and be easy to use with an intuitive interface.
   
-## 2. Real-World Application / Unique Solution
+### 2. Real-World Application / Unique Solution
   The project should address a relevant real-world problem and offer a creative, innovative solution.
   
 ### 3. Frameworks or Tools Used
